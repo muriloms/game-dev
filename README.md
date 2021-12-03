@@ -1,2 +1,6 @@
-# game-dev-repository
-This repository contains game development projects, using mainly the Unity (C#) and Unreal (C++) engines
+# Game Development Repository
+### This repository is intended to organize quick access to repositories containing game development projects
+
+# Unity
+
+# Unreal Engine
